@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="flag-icons-az" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 640.6 481.9" style="enable-background:new 0 0 640.6 481.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#3F9C35;}
+	.st1{fill:#ED2939;}
+	.st2{fill:#00B9E4;}
+	.st3{fill:#FFFFFF;}
+</style>
+<path class="st0" d="M0.1,0h640v480H0.1V0z"/>
+<path class="st1" d="M0.1,0h640v320H0.1V0z"/>
+<path class="st2" d="M0.1,0h640v160H0.1V0z"/>
+<circle class="st3" cx="304" cy="240" r="72"/>
+<circle class="st1" cx="320" cy="240" r="60"/>
+<path class="st3" d="M384,200l7.7,21.5l20.6-9.8l-9.8,20.7L424,240l-21.5,7.7l9.8,20.6l-20.6-9.8L384,280l-7.7-21.5l-20.6,9.8
+	l9.8-20.6L344,240l21.5-7.7l-9.8-20.6l20.6,9.8L384,200z"/>
+</svg>
