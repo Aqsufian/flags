@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="flag-icons-bj" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 640.6 481.9" style="enable-background:new 0 0 640.6 481.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000060027520936931469060000001182614763473611434_);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#319400;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFD600;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#DE2110;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="0" y="0" width="640" height="480"/>
+	</defs>
+	<clipPath id="SVGID_00000059289012467343205140000007689803933541991868_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	
+		<g transform="matrix(.961 0 0 .7207 -65 111)" style="clip-path:url(#SVGID_00000059289012467343205140000007689803933541991868_);">
+		<g>
+			<path class="st1" d="M0-154h333v666H0V-154z"/>
+			<path class="st2" d="M333-154h666v333H333V-154z"/>
+			<path class="st3" d="M333,179h666v333H333V179z"/>
+		</g>
+	</g>
+</g>
+</svg>
