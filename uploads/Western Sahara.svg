@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="flag-icons-eh" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 640.6 481.9" style="enable-background:new 0 0 640.6 481.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000000913556015921614280000011821121829082353284_);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#007A3D;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#C4111B;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="-0.4" y="0" width="641.7" height="481.3"/>
+	</defs>
+	<clipPath id="SVGID_00000008841354852532966020000006153386037085457073_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	
+		<g id="g13044" transform="translate(148.8) scale(.94)" style="clip-path:url(#SVGID_00000008841354852532966020000006153386037085457073_);">
+		<path id="rect13190" class="st1" d="M-160.4-0.5H524v256.6h-684.4L-160.4-0.5z"/>
+		<path id="rect13192" class="st2" d="M-160.4,256.1H524v256.6h-684.4L-160.4,256.1z"/>
+		<path id="rect13194" class="st3" d="M-160.4,149.2H524v213.9h-684.4L-160.4,149.2z"/>
+		<path id="path13196" class="st4" d="M-160.4-0.5l342.2,256.6l-342.2,256.6V-0.5z"/>
+		<circle id="circle13198" class="st4" cx="352.8" cy="256.1" r="68.5"/>
+		<circle id="circle13200" class="st3" cx="378.6" cy="256.1" r="68.5"/>
+		<path id="path13202" class="st4" d="M334.4,297.5l29.3-20.8l28.9,21.1l-10.9-34.2l29.2-21l-35.9-0.2L364,208.3l-11.3,34.1
+			l-35.9-0.2l28.8,21.3l-11.2,34.2L334.4,297.5z"/>
+	</g>
+</g>
+</svg>
