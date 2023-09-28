@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="flag-icons-mm" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 640.6 481.9" style="enable-background:new 0 0 640.6 481.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FECB00;}
+	.st1{fill:#EA2839;}
+	.st2{fill:#34B233;}
+	.st3{fill:#FFFFFF;}
+</style>
+<path class="st0" d="M0-0.1h640V160H0V-0.1z"/>
+<path class="st1" d="M0,320h640v160H0V320z"/>
+<path class="st2" d="M0,160h640v160H0V160z"/>
+<g transform="matrix(40 0 0 40 -40 0)">
+	<g id="b">
+		<g transform="rotate(-144)">
+			<path id="a" class="st3" d="M216,399.1l46.7-184.7l114.5,83.2L216,399.1z"/>
+		</g>
+		<g transform="rotate(-72)">
+			<path id="a_00000040560083066090133110000000125088007922571950_" class="st3" d="M151.8,201.3l190.1-12.6l-43.7,134.6
+				L151.8,201.3z"/>
+		</g>
+		<g>
+			<path id="a_00000158751805632656156080000005779935755277630124_" class="st3" d="M320,79.1L390.8,256H249.2L320,79.1z"/>
+		</g>
+		<g transform="rotate(72)">
+			<path id="a_00000127723822926368742070000000500252734082988206_" class="st3" d="M488.2,201.3L341.9,323.3l-43.7-134.6
+				L488.2,201.3z"/>
+		</g>
+		<g transform="rotate(144)">
+			<path id="a_00000074440104215980117780000015821612540559010953_" class="st3" d="M424,399.1L262.8,297.6l114.5-83.2L424,399.1z"
+				/>
+		</g>
+	</g>
+</g>
+</svg>
