@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="flag-icons-gw" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 640.6 481.9" style="enable-background:new 0 0 640.6 481.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#CE1126;}
+	.st1{fill:#FCD116;}
+	.st2{fill:#009E49;}
+</style>
+<path class="st0" d="M0,0h220v480H0V0z"/>
+<path class="st1" d="M220,0h420v240H220V0z"/>
+<path class="st2" d="M220,240h420v240H220V240z"/>
+<g id="b" transform="matrix(80 0 0 80 110 240)">
+	<path id="a" d="M0-1l-0.3,1l0.5,0.2"/>
+	<g transform="scale(-1 1)">
+		<path id="a_00000011008768335588634380000003388584294802188982_" d="M0-1l0.3,1l-0.5,0.2"/>
+	</g>
+</g>
+<g transform="rotate(72 110 240)">
+	<g id="b_00000101089415714983093690000012356409768674117285_" transform="matrix(80 0 0 80 110 240)">
+		<path id="a_00000112602966968581029870000002157411744025445031_" d="M1-0.3H0v0.5"/>
+		<g transform="scale(-1 1)">
+			<path id="a_00000058548722193286027720000000358505371073983634_" d="M1-0.3L0.1,0.3l-0.3-0.4"/>
+		</g>
+	</g>
+</g>
+<g transform="rotate(144 110 240)">
+	<g id="b_00000094577004091525291410000000142114193487872907_" transform="matrix(80 0 0 80 110 240)">
+		<path id="a_00000011009640843414897080000009557670074506207920_" d="M0.6,0.8l-0.3-1L-0.2,0"/>
+		<g transform="scale(-1 1)">
+			<path id="a_00000119083409744299082400000009429701279129465241_" d="M0.6,0.8l-0.8-0.6l0.3-0.4"/>
+		</g>
+	</g>
+</g>
+<g transform="rotate(-144 110 240)">
+	<g id="b_00000132046678250669325560000015828000681658180252_" transform="matrix(80 0 0 80 110 240)">
+		<path id="a_00000149342650782220366990000015686077438079472565_" d="M-0.6,0.8l0.8-0.6l-0.3-0.4"/>
+		<g transform="scale(-1 1)">
+			<path id="a_00000074433915548692822760000002986945318050334107_" d="M-0.6,0.8l0.3-1L0.2,0"/>
+		</g>
+	</g>
+</g>
+<g transform="rotate(-72 110 240)">
+	<g id="b_00000013881172293438777610000018180540985415861661_" transform="matrix(80 0 0 80 110 240)">
+		<path id="a_00000081630356780676991910000012002252860916052890_" d="M-1-0.3l0.8,0.6l0.3-0.4"/>
+		<g transform="scale(-1 1)">
+			<path id="a_00000096749530738740324320000006618948228868786860_" d="M-1-0.3h1v0.5"/>
+		</g>
+	</g>
+</g>
+</svg>
