@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="flag-icons-cw" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 640.6 481.9" style="enable-background:new 0 0 640.6 481.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000132084350303179821220000017628801386257239698_);}
+	.st1{fill:#002B7F;}
+	.st2{fill:#F9E814;}
+	.st3{fill:#FFFFFF;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" y="0" width="641.7" height="481.3"/>
+	</defs>
+	<clipPath id="SVGID_00000140715652402209788580000008489329292346235306_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g transform="scale(.94)" style="clip-path:url(#SVGID_00000140715652402209788580000008489329292346235306_);">
+		<path class="st1" d="M0,0h768v512H0V0z"/>
+		<path class="st2" d="M0,320h768v64H0V320z"/>
+		<g transform="scale(42.67)">
+			<path id="b" class="st3" d="M85.3,42.7l8.5,29.9H128L98.1,85.3l8.5,29.9l-21.3-12.8l-25.6,17.1l8.5-29.9L46.9,72.5h29.9
+				L85.3,42.7z"/>
+		</g>
+		<g transform="scale(56.9)">
+			<path id="b_00000103252173726594903660000000052310375412216246_" class="st3" d="M170.7,113.8l11.4,39.8h45.5l-39.8,17.1
+				l11.4,39.8l-28.5-17.1l-34.1,22.8l11.4-39.8l-28.5-22.8h39.8L170.7,113.8z"/>
+		</g>
+	</g>
+</g>
+</svg>
