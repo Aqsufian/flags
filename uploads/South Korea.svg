@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="flag-icons-kr" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 640.6 481.9" style="enable-background:new 0 0 640.6 481.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_00000137103089913644306000000003318145849171614097_);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:40;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#CD2E3A;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#0047A0;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="0" y="0" width="640" height="480"/>
+	</defs>
+	<clipPath id="SVGID_00000071550456902066331220000013940685995081465267_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	
+		<g id="g119" transform="translate(89.8 .4) scale(.9375)" style="clip-path:url(#SVGID_00000071550456902066331220000013940685995081465267_);">
+		<path id="path526" class="st1" d="M-95.8-0.4H587v512H-95.8V-0.4z"/>
+		<g id="g540" transform="scale(10.66667) rotate(-56.3 33.9 -9.5)">
+			<g id="b2">
+				<path id="b" class="st2" d="M-6-26l12,0v2H-6V-26z M-6-23H6v2H-6V-23z M-6-20H6v2H-6V-20z"/>
+				<g id="use529">
+					<path id="b_00000044167467652388796990000002008705489942171824_" class="st2" d="M-6,18H6l0,2H-6V18z M-6,21H6v2l-12,0L-6,21z
+						 M-6,24l12,0v2l-12,0V24z"/>
+				</g>
+			</g>
+			<path id="path532" class="st3" d="M0,17l0,10"/>
+			<path id="path534" class="st4" d="M0-12c6.6,0,12,5.4,12,12c0,6.6-5.4,12-12,12L0-12z"/>
+			<path id="path536" class="st5" d="M0-12c-6.6,0-12,5.4-12,12c0,6.6,5.4,12,12,12c3.3,0,6-2.7,6-6S3.3,0,0,0L0-12z"/>
+			<circle id="circle538" class="st4" cx="0" cy="-6" r="6"/>
+		</g>
+		<g id="g546" transform="scale(-10.66667) rotate(56.3 10.9 -33.5)">
+			<g id="use542">
+				<g id="b2_00000014602764201077106240000015877094257422316678_">
+					<path id="b_00000134217033386536681560000016620383190742044829_" class="st2" d="M-6-26l12,0v2l-12,0V-26z M-6-23H6v2H-6
+						L-6-23z M-6-20H6l0,2H-6V-20z"/>
+					<g id="use529_00000026122421949981226330000018317334193072522167_">
+						<path id="b_00000059275028113392559160000005697634658840174991_" class="st2" d="M-6,18H6v2H-6L-6,18z M-6,21H6l0,2H-6V21z
+							 M-6,24H6v2l-12,0V24z"/>
+					</g>
+				</g>
+			</g>
+			<path id="path544" class="st3" d="M0-23.5l0,3 M0,17l0,3.5 M0,23.5l0,3"/>
+		</g>
+	</g>
+</g>
+</svg>
