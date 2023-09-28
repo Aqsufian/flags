@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="flag-icons-mk" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 640.6 481.9" style="enable-background:new 0 0 640.6 481.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D20000;}
+	.st1{fill:#FFE600;}
+	.st2{fill:#FFE600;stroke:#D20000;stroke-width:17.1;}
+</style>
+<path class="st0" d="M0,0h640v480H0V0z"/>
+<path class="st1" d="M0,0h96l224,231.4L544,0h96L0,480h96l224-231.4L544,480h96L0,0z M640,192v96L0,192v96L640,192z M280,0l40,205.7
+	L360,0H280z M280,480l40-205.7L360,480H280z"/>
+<circle class="st2" cx="320" cy="240" r="77.1"/>
+</svg>
